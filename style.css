@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+}
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+.heading h3
+{
+    display: inline;
+}
+.heading button
+{
+    float: right;
+    border: 3px solid white;
+}
+#ping_pong
+{
+    height: 300px;
+}
+#start, #status
+{
+    font-size: 22px;
+}
+canvas
+{
+    color: aqua;
+}
